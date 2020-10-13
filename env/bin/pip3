@@ -1,4 +1,4 @@
-#!/home/joe/Documents/joe-dev/spdr-command/env/bin/python3
+#!/home/joe/Documents/joe-dev/spdr-command/spdr/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

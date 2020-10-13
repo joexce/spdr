@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/joe/Documents/joe-dev/spdr-command/env"
+set -gx VIRTUAL_ENV "/home/joe/Documents/joe-dev/spdr-command/spdr/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
